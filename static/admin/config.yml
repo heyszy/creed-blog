@@ -1,5 +1,7 @@
 backend:
   name: test-repo
+  repo: heyszy/creed-blog
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
